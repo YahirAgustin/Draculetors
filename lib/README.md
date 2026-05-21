@@ -1,0 +1,1 @@
+En esta sección encontrarás funciones que te pueden ser utiles para tu agente :)

@@ -26,6 +26,7 @@ class Config:
         self.TWILIO_ACCOUNT_SID = os.getenv("TWILIO_ACCOUNT_SID")
         self.TWILIO_AUTH_TOKEN = os.getenv("TWILIO_AUTH_TOKEN")
         self.TWILIO_WHATSAPP_NUMBER = os.getenv("TWILIO_WHATSAPP_NUMBER")
+        self.AGROCAPITAL_WHATSAPP_NUMBER = os.getenv("AGROCAPITAL_WHATSAPP_NUMBER")
 
 # Instancia global
 settings = Config()
